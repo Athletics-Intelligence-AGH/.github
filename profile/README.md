@@ -1,4 +1,4 @@
-# SKN Sport Science AGH
+# SKN Athleitc Intelligence AGH
 
 ## Hi there 👋
 
